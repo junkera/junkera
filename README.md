@@ -13,7 +13,7 @@
   <img align="center" alt="Junk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
- <img align="center" alt="Junk-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
   <img align="right" alt="Junk-pic" height="150" style="border-radius:50px;" src="https://lexica-serve-encoded-images2.sharif.workers.dev/full_jpg/593eb222-86af-4a0c-90b4-fca086a36490">
 </div>
   
